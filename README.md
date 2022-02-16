@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/89762138/154220379-591225ac-e3d4-47ac-939c-d48a85d2a5e0.png" data-canonical-src="https://user-images.githubusercontent.com/89762138/154220379-591225ac-e3d4-47ac-939c-d48a85d2a5e0.png" width="200" height="400" align="center" />
-
+<center>
+<img src="https://user-images.githubusercontent.com/89762138/154220379-591225ac-e3d4-47ac-939c-d48a85d2a5e0.png" data-canonical-src="https://user-images.githubusercontent.com/89762138/154220379-591225ac-e3d4-47ac-939c-d48a85d2a5e0.png" width="200" height="400" />
+</center>
 # tools-pembantu
 Kumpulan tools pembantu untuk development website
 
