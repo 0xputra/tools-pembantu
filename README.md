@@ -18,6 +18,8 @@ Kumpulan tools pembantu untuk development website
 - [Google Fonts](https://fonts.google.com/)
 - [Flat Icon](https://www.flaticon.com/)
 - [Font Awesome](https://fontawesome.com/)
+- [Simple Icon](https://simpleicons.org/)
+
 
 ## Desain Dan Mockup
 - [Figma](https://www.figma.com/)
