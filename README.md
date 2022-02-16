@@ -1,10 +1,10 @@
 # tools-pembantu
 Kumpulan tools pembantu untuk development website
 
-## Background Untuk Website
+## Background Website
 - [Subtel Patterns](https://www.toptal.com/designers/subtlepatterns/)
 
-## Untuk Gambar Dan Video Gratis 
+## Gambar Dan Video Gratis 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
@@ -18,3 +18,14 @@ Kumpulan tools pembantu untuk development website
 - [GoogleFonts](https://fonts.google.com/)
 - [FlatIcon](https://www.flaticon.com/)
 - [FontAwesome](https://fontawesome.com/)
+
+## Desain Dan Mockup
+- [Figma](https://www.figma.com/)
+- [AdobeXD](https://www.adobe.com/th_en/products/xd.html)
+- [WireFrame](https://wireframe.cc/)
+- [MockupPhone](https://mockuphone.com/)
+
+## Colors Pallet / Colors Generator
+- [Coolors](https://coolors.co/)
+- [ColorHunt](https://colorhunt.co/)
+- [AdobeColor](https://color.adobe.com/)
