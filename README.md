@@ -45,3 +45,15 @@ Kumpulan tools pembantu untuk development website
 - [DevHint](https://devhints.io/)
 - [CanIuse](https://caniuse.com/)
 
+## Web Design Inspiration / Inspirasi Web Design
+- [Dribble](https://dribbble.com/)
+- [Awwards](https://www.awwwards.com/)
+- [SiteInspire](https://www.siteinspire.com/)
+
+## Chrome Extension / Ektensi Chrome
+- [WebDeveloperTools](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=id)
+- [JsonView](https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejhlpcmifheolpl?hl=id)
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=id)
+- [AwesomeScreenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=id)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=id)
+
