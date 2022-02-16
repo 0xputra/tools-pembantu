@@ -29,3 +29,19 @@ Kumpulan tools pembantu untuk development website
 - [Coolors](https://coolors.co/)
 - [ColorHunt](https://colorhunt.co/)
 - [AdobeColor](https://color.adobe.com/)
+
+## Image Utility
+- [SquoshApp](https://squoosh.app/)
+- [RemoveBg](https://www.remove.bg/)
+
+## Coding Online / Snippets
+- [CodePen](https://codepen.io/)
+- [JsFidle](https://jsfiddle.net/)
+- [Replit](https://replit.com/)
+- [Pastebin](https://pastebin.com/)
+
+## Dokumentasi Online / Contekan
+- [DevDocs](https://devdocs.io/)
+- [DevHint](https://devhints.io/)
+- [CanIuse](https://caniuse.com/)
+
