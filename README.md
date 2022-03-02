@@ -48,6 +48,8 @@ Kumpulan tools pembantu untuk development website
 - [Dev Docs](https://devdocs.io/)
 - [Dev Hint](https://devhints.io/)
 - [Can I use](https://caniuse.com/)
+- [Dev.to](https://dev.to/)
+- [Github](https://github.com/)
 
 ## Web Design Inspiration / Inspirasi Web Design
 - [Dribble](https://dribbble.com/)
